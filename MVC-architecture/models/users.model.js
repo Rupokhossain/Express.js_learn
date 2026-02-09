@@ -1,4 +1,4 @@
-const users = [
+/* const users = [
     {
         name: "Siam Ahmed",
         age: 22
@@ -10,4 +10,6 @@ const users = [
     
 ]
 
-module.exports = users;
+module.exports = users; */
+
+

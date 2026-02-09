@@ -1,4 +1,4 @@
-const path = require("path");
+/* const path = require("path");
 
 const users = require("../models/users.model");
 
@@ -19,4 +19,6 @@ exports.saveUsers = (req, res) => {
         success: true,
         users,
     })
-}
+} */
+
+    
